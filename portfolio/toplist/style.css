@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+h1 {
+	background-color: #33BEBE;
+}
+
+.app {
+	display: flex;
+}
+
+.screenshot {
+    margin-right: 30px;
+}
+
+.description {
+    width: 50%;
+    height: 50%;
+}
+
